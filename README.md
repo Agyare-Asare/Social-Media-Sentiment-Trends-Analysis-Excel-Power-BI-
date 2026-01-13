@@ -35,6 +35,7 @@ Instagram shows a higher proportion of positive sentiment compared to Twitter an
 Negative sentiment appears more frequently during night-time posting hours
 Sentiment patterns change over time, indicating shifts in online user behavior
 ## Dashboard Features
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/acb8dff1-3d27-4367-b283-302a67265c93" />
 Interactive year slicer for trend analysis
 Sentiment distribution overview
 Platform-level sentiment comparison
