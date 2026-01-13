@@ -40,5 +40,7 @@ Interactive year slicer for trend analysis
 Sentiment distribution overview
 Platform-level sentiment comparison
 Time-of-day sentiment patterns.
+
+
 ## Conclusion
 This project demonstrates the use of Excel for data preparation and Power BI for building interactive dashboards. It highlights how sentiment data can be analyzed to uncover behavioral patterns across social media platforms and posting times, providing insights that could support social media strategy and content planning.
