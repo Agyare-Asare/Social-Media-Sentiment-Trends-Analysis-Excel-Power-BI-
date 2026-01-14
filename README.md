@@ -35,12 +35,11 @@ Instagram shows a higher proportion of positive sentiment compared to Twitter an
 Negative sentiment appears more frequently during night-time posting hours
 Sentiment patterns change over time, indicating shifts in online user behavior
 ## Dashboard Features
-
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/30528f6d-5dbb-4518-acdb-c68934dea05c" />
 Interactive year slicer for trend analysis
 Sentiment distribution overview
 Platform-level sentiment comparison
 Time-of-day sentiment patterns.
-
 
 ## Conclusion
 This project demonstrates the use of Excel for data preparation and Power BI for building interactive dashboards. It highlights how sentiment data can be analyzed to uncover behavioral patterns across social media platforms and posting times, providing insights that could support social media strategy and content planning.
